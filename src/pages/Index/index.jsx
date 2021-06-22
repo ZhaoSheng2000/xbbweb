@@ -3,9 +3,8 @@ import { Layout, Menu } from 'antd';
 
 import {Link, Route, Switch} from "react-router-dom";
 
-import ShouYe from '../ShouYe'
+import ShouYe from '../ShouYe/ShouYe'
 
-import './index.less'
 
 const MenuItem  = Menu.Item;
 const { Header, Content, Footer } = Layout;
